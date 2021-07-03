@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Welcome to BizDamn</h1>
+<h1 align="center">BizDamn</h1>
 <h3 align="center">We build beautiful, scalable and feature rich Web Applications and Websites</h3>
 
 
@@ -36,22 +36,21 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write  [Blogs](https://bizdamn.netlify.app/)
 
-- 💬 Ask me about **Python, Flask**
+- 💬 Get a **[Quote](https://bizdamn.netlify.app/)**
+- 📫 Want a website/web-application **bizdamn@gmail.com**
 
-- 📫 Want a website/web-application **vermaapoorva0510@gmail.com**
 
-- 👯 I’m looking to collaborate on **JavaScript or Python.**
 
 
 <hr>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect With Us:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/apoorva-verma-aa045a202/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorva-01" height="30" width="40" /></a>
-  <a href="https://github.com/apoorva-01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="apoorva-01" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="codebreaker_bhargav_ab" height="30" width="40" /></a> -->
-<a href="https://medium.com/@vermaapoorva0510" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vermaapoorva0510" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/BizDamn-101076322247043" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="codebreaker_bhargav_ab" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/bizdamn/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="codebreaker_bhargav_ab" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/biz-damn-153253216/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorva-01" height="30" width="40" /></a>
+ <a href="https://github.com/bizdamn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="apoorva-01" height="30" width="40" /></a>
+<a href="https://twitter.com/biz_damn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="codebreaker_bhargav_ab" height="30" width="40" /></a>
 
-<!-- <a href="https://www.hackerrank.com/name" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="name" height="30" width="40" /></a> -->
 </p>
 <hr>
 

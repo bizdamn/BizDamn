@@ -12,14 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-
 <h1 align="center">BizDamn</h1>
 <h3 align="center">We build beautiful, scalable and feature rich Web Applications and Websites</h3>
-
-
 
 - 🌐 **[Our Website](https://bizdamn.netlify.app/)**
 - ✌ Successfully Completed 58 Projects. 
@@ -30,15 +24,10 @@ Here are some ideas to get you started:
 - <b>💁‍♂️ Our Goal is to build your Brand.</b> 
 - ⚡ See Our Work **[Portfolio](https://bizdamn.netlify.app/)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/apoorva-01](https://github.com/apoorva-01)
-
 - 📝 Our [Blogs]()
 
 - 💬 Get a **[Quote](https://bizdamn.netlify.app/)**
 - 📫 Want a website/web-application **bizdamn@gmail.com**
-
-
-
 
 <hr>
 <h3 align="left">Connect With Us:</h3>
@@ -50,6 +39,10 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/biz_damn" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="codebreaker_bhargav_ab" height="30" width="40" /></a>
 
 </p>
+<hr>
+
+<h3 align="left">Founder:</h3>
+😄[Apoorva Verma](https://github.com/apoorva-01)
 <hr>
 
 <h3 align="left">Languages and Tools We used:</h3>

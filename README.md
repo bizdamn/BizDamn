@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 
 - <b>🔭 We customize the design to fit your personal style and professional needs and optimize it effectively to increase your Sales.</b> 
 - <b>💁‍♂️ Our Goal is to build your Brand.</b> 
-- ⚡ See Our Work -**[Portfolio](https://bizdamn.netlify.app/)**
+- ⚡ See Our Work **[Portfolio](https://bizdamn.netlify.app/)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/apoorva-01](https://github.com/apoorva-01)
 
-- 📝 I regularly write  [Blogs](https://bizdamn.netlify.app/)
+- 📝 Our [Blogs]()
 
 - 💬 Get a **[Quote](https://bizdamn.netlify.app/)**
 - 📫 Want a website/web-application **bizdamn@gmail.com**
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 </p>
 <hr>
 
-<h3 align="left">Languages and Tools I used:</h3>
+<h3 align="left">Languages and Tools We used:</h3>
 <p align="left">
 <h4 style="color: #0198E1">Python</h4>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>

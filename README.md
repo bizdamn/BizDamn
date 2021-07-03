@@ -42,7 +42,8 @@ Here are some ideas to get you started:
 <hr>
 
 <h3 align="left">Founder:</h3>
-😄[Apoorva](https://github.com/apoorva-01)
+😄**[Apoorva](https://github.com/apoorva-01)**
+
 <hr>
 
 <h3 align="left">Languages and Tools We used:</h3>

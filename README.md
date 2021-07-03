@@ -16,23 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<!--
-**apoorva-01/apoorva-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<!-- BLOG-POST-LIST:START -->
 
 <h1 align="center">Welcome to BizDamn</h1>
 <h3 align="center">We build beautiful, scalable and feature rich Web Applications and Websites</h3>
@@ -42,15 +26,11 @@ Here are some ideas to get you started:
 - 🌐 **[Our Website](https://bizdamn.netlify.app/)**
 - ✌ Successfully Completed 58 Projects. 
 
-- 🌱 Stand out online with a professional website, online store, or portfolio. **With BizDamn, you can turn any idea into a reality.**
+- 🌱 Stand out online with a <b> professional website</b>, online store, or portfolio. **With BizDamn, you can turn any idea into a reality.**
 
 - <b>🔭 We customize the design to fit your personal style and professional needs and optimize it effectively to increase your Sales.</b> 
-
 - <b>💁‍♂️ Our Goal is to build your Brand.</b> 
-- 
-- ⚡ Fun fact: I thaught I am ready to Hack NASA Server after learning HTML 😂🤣
-
-- 🤔 I’m looking for help with : Machine Learning
+- ⚡ See Our Work -**[Portfolio](https://bizdamn.netlify.app/)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/apoorva-01](https://github.com/apoorva-01)
 

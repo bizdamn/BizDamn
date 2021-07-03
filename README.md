@@ -40,16 +40,14 @@ Here are some ideas to get you started:
 
 
 - 🌐 **[Our Website](https://bizdamn.netlify.app/)**
-- ✌ Successfully Completed 58 Projects. **[ThinkBiz](https://www.thinkbiz.co.uk/)**
+- ✌ Successfully Completed 58 Projects. 
 
-- 🌱 Stand out online with a professional website, online store, or portfolio. With Squarespace, you can turn any idea into a reality.**Django and React**
+- 🌱 Stand out online with a professional website, online store, or portfolio. **With BizDamn, you can turn any idea into a reality.**
 
-- <b>🔭 Working:</b> NLP Powered Chatbot and Social Media App for my College
+- <b>🔭 We customize the design to fit your personal style and professional needs and optimize it effectively to increase your Sales.</b> 
 
-<!-- - <b>💻 Coding:</b> is my favourite Sport. -->
-
-- <b>💁‍♂️ Interesting:</b> Deep Learning
-
+- <b>💁‍♂️ Our Goal is to build your Brand.</b> 
+- 
 - ⚡ Fun fact: I thaught I am ready to Hack NASA Server after learning HTML 😂🤣
 
 - 🤔 I’m looking for help with : Machine Learning

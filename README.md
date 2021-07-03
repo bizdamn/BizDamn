@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **bizdamn/BIZDAMN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -88,19 +86,6 @@ Here are some ideas to get you started:
 <hr>
 <br>
 
-
-
-
-<!-- <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  -->
-<!-- <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>  -->
-<!-- <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  -->
-<!-- <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>  -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apoorva-01&show_icons=true&locale=en&layout=compact" alt="apoorva-01" /></p>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=apoorva-01&show_icons=true&locale=en" alt="apoorva-01" />
-</p>
-<br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=apoorva-01&" alt="apoorva-01" /></p>
 
 
 

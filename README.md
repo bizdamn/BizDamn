@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 <hr>
 <h3 align="left">Connect With Us:</h3>
 <p align="left">
-  <a href="https://www.facebook.com/BizDamn-101076322247043" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="codebreaker_bhargav_ab" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/bizdamn/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="codebreaker_bhargav_ab" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/biz-damn-153253216/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorva-01" height="30" width="40" /></a>
- <a href="https://github.com/bizdamn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="apoorva-01" height="30" width="40" /></a>
-<a href="https://twitter.com/biz_damn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="codebreaker_bhargav_ab" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/BizDamn-101076322247043" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="codebreaker_bhargav_ab" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/bizdamn/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="codebreaker_bhargav_ab" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/biz-damn-153253216/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorva-01" height="30" width="40" /></a>
+ <a href="https://github.com/bizdamn" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="apoorva-01" height="30" width="40" /></a>
+<a href="https://twitter.com/biz_damn" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="codebreaker_bhargav_ab" height="30" width="40" /></a>
 
 </p>
 <hr>

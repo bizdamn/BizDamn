@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">BizDamn</h1>
-<h3 align="center">We build beautiful, scalable and feature rich Web Applications and Websites</h3>
+<h3 align="center">Shaping Brands by covering all aspects from Designing, Website/ Web Application Development to Digital Marketing.</h3>
 
 - 🌐 **[Our Website](https://bizdamn.netlify.app/)**
 - ✌ Successfully Completed 58 Projects. 
@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 - <b>🔭 We customize the design to fit your personal style and professional needs and optimize it effectively to increase your Sales.</b> 
 - <b>💁‍♂️ Our Goal is to build your Brand.</b> 
+- - <b>💁‍♂️We build feature-rich, well-planned, highly scalable, and secure websites and web applications that solve real customer problems and help you shape your Brand by providing all solutions from Designing, Website/ Web Application Development to Digital Marketing.</b> 
 - ⚡ See Our Work **[Portfolio](https://bizdamn.netlify.app/)**
 
 - 📝 Our [Blogs]()

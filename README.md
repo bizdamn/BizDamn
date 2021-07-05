@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 - 🌱 Stand out online with a <b> professional website</b>, online store, or portfolio. **With BizDamn, you can turn any idea into a reality.**
 
 - <b>🔭 We customize the design to fit your personal style and professional needs and optimize it effectively to increase your Sales.</b> 
-- <b>💁‍♂️ Our Goal is to build your Brand.</b> 
-- - <b>💁‍♂️We build feature-rich, well-planned, highly scalable, and secure websites and web applications that solve real customer problems and help you shape your Brand by providing all solutions from Designing, Website/ Web Application Development to Digital Marketing.</b> 
+- <b>💁‍♂️We build feature-rich, well-planned, highly scalable, and secure websites and web applications that solve real customer problems and help you shape your Brand by providing all solutions from Designing, Website/ Web Application Development to Digital Marketing.</b> 
 - ⚡ See Our Work **[Portfolio](https://bizdamn.netlify.app/)**
 
 - 📝 Our [Blogs]()

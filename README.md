@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 - 📝 Our [Blogs]()
 
 - 💬 Get a **[Quote](https://bizdamn.netlify.app/)**
+- Founder **[Apoorva](https://github.com/apoorva-01/)**
 - 📫 Want a website/web-application **bizdamn@gmail.com**
+
 
 <hr>
 <h3 align="left">Connect With Us:</h3>
@@ -41,8 +43,6 @@ Here are some ideas to get you started:
 </p>
 <hr>
 
-<h3 align="left">Founder:</h3>
--😄**[Apoorva](https://github.com/apoorva-01)**
 
 <hr>
 

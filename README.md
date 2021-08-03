@@ -1,24 +1,23 @@
 <h1 align="center">BizDamn</h1>
 <h3 align="center">Shaping Brands by covering all aspects from Designing, Website/ Web Application Development to Digital Marketing.</h3>
 
-- 🌐 **[Our Website](https://bizdamn.netlify.app/)**
-- 
+- 🌐 **[Our Website](https://bizdamn.tech/)**
+
 - ✌ Successfully Completed 58 Projects. 
 
-- Founder **[Apoorva](https://github.com/apoorva-01/)**
-- 
 - 🌱 Stand out online with a <b> professional website</b>, online store, or portfolio. **With BizDamn, you can turn any idea into a reality.**
 
 - <b>🔭 We customize the design to fit your personal style and professional needs and optimize it effectively to increase your Sales.</b> 
 - <b>💁‍♂️We build feature-rich, well-planned, highly scalable, and secure websites and web applications that solve real customer problems and help you shape your Brand by providing all solutions from Designing, Website/ Web Application Development to Digital Marketing.</b> 
 - ⚡ See Our Work **[Portfolio](https://bizdamn.netlify.app/)**
 
-- 📝 Our [Blogs]()
+- 📝 Our **[Blogs](https://bizdamn.tech/blog)**
 
-- 💬 Get a **[Quote](https://bizdamn.netlify.app/)**
+- 💬 Get a **[Quote](https://bizdamn.tech/consultancy)**
 
 - 📫 Want a website/web-application **bizdamn@gmail.com**
 
+- Founder **[Apoorva](https://github.com/apoorva-01/)**
 
 <hr>
 <h3 align="left">Connect With Us:</h3>

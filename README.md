@@ -1,23 +1,12 @@
-<!--
-**bizdamn/BIZDAMN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">BizDamn</h1>
 <h3 align="center">Shaping Brands by covering all aspects from Designing, Website/ Web Application Development to Digital Marketing.</h3>
 
 - 🌐 **[Our Website](https://bizdamn.netlify.app/)**
+- 
 - ✌ Successfully Completed 58 Projects. 
 
+- Founder **[Apoorva](https://github.com/apoorva-01/)**
+- 
 - 🌱 Stand out online with a <b> professional website</b>, online store, or portfolio. **With BizDamn, you can turn any idea into a reality.**
 
 - <b>🔭 We customize the design to fit your personal style and professional needs and optimize it effectively to increase your Sales.</b> 
@@ -27,7 +16,7 @@ Here are some ideas to get you started:
 - 📝 Our [Blogs]()
 
 - 💬 Get a **[Quote](https://bizdamn.netlify.app/)**
-- Founder **[Apoorva](https://github.com/apoorva-01/)**
+
 - 📫 Want a website/web-application **bizdamn@gmail.com**
 
 
